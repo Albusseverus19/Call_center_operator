@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Config with API keys (IMPORTANT - don't commit secrets!)
+config.py
+
+# Audio files
+*.mp3
+*.wav
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials
+*.json
